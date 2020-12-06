@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on A Hugo website</title>
+    <link>/categories/visualization/</link>
+    <description>Recent content in Visualization on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escher&#39;s Gallery by Wendy Shijia</title>
+      <link>/2020/12/04/escher-s-gallery-by-wendy-shijia/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/04/escher-s-gallery-by-wendy-shijia/</guid>
+      <description>![](/post/2020-12-04-escher-s-gallery-by-wendy-shijia/index_files/Escher&amp;rsquo;s Gallery.png)</description>
+    </item>
+    
+  </channel>
+</rss>

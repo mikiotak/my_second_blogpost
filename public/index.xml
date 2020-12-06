@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo website</title>
+    <link>/</link>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escher&#39;s Gallery by Wendy Shijia</title>
+      <link>/2020/12/04/escher-s-gallery-by-wendy-shijia/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/04/escher-s-gallery-by-wendy-shijia/</guid>
+      <description>![](/post/2020-12-04-escher-s-gallery-by-wendy-shijia/index_files/Escher&amp;rsquo;s Gallery.png)</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Data</title>
+      <link>/2020/12/03/visualizing-data/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/03/visualizing-data/</guid>
+      <description>この本がすごいだけでなく、本を補完するWebサイトがすごい！！ Welcome to the digital companion site for the book, &amp;lsquo;Visualising Data: A Handbook for Data Driven Design (Second Edition)&amp;rsquo; by Andy Kirk, published by Sage and available to buy now! This is a special sub-site of visualisingdata.com dedicated to providing readers with additional references and resources to supplement their learning from the book&amp;rsquo;s content. If you&amp;rsquo;ve not yet bought the book, you can learn more about who it is aimed at, see an overview of the topics covered and structure of contents, read through some sample excerpts and find links to the various places you can buy a copy.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Signs Definitive Agreement to Acquire Slack</title>
+      <link>/2020/12/02/salesforce-signs-definitive-agreement-to-acquire-slack/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/02/salesforce-signs-definitive-agreement-to-acquire-slack/</guid>
+      <description>December 01, 2020 Combination of #1 CRM platform with the most innovative enterprise communications platform will create the operating system for the new way to work, enabling companies to grow and succeed in the all-digital world
+SAN FRANCISCO&amp;ndash;(BUSINESS WIRE)&amp;ndash; Salesforce (NYSE: CRM), the global leader in CRM, and Slack Technologies, Inc. (NYSE: WORK), the most innovative enterprise communications platform, have entered into a definitive agreement under which Salesforce will acquire Slack.</description>
+    </item>
+    
+    <item>
+      <title>Why a Slack acquisition would make sense for Salesforce</title>
+      <link>/2020/12/01/why-a-slack-acquisition-would-make-sense-for-salesforce/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/01/why-a-slack-acquisition-would-make-sense-for-salesforce/</guid>
+      <description>Computerworld
+Salesforce is reportedly in “advanced talks” with Slack over a potential acquisition — a deal that would be a good fit for both organizations, according to analysts.
+Employee engagement: Why a deal makes sense for Salesforce At first glance, Salesforce seems like a slightly awkward fit for a suitor, given its core focus on software that supports business-to-customer relationships. “The first question that comes to mind with these reports is why would Salesforce be interested in acquiring Slack, given that — despite its acquisition of Quip four years ago — employee productivity and collaboration is outside its core domain,” said Raul Castanon a senior analyst at 451 Research/S&amp;amp;P Global Market Intelligence.</description>
+    </item>
+    
+    <item>
+      <title>The New Disrupters</title>
+      <link>/2020/11/30/the-new-disrupters/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/11/30/the-new-disrupters/</guid>
+      <description>BY RITA GUNTHER MCGRATH
+D2C companies like Dollar Shave Club and Harry’s and from the trend among men, particularly younger ones, to wear beards. In a short period of time, new competitors have radically changed customer behavior in three significant ways:
+ Consumers are now happy to purchase hard goods like mattresses, furniture, and even cars online. Almost everything can be sold as a service.  Excess capacity is a consumer asset.</description>
+    </item>
+    
+    <item>
+      <title>Disruption 2020: An Interview With Clayton M. Christensenを読む</title>
+      <link>/2020/11/29/disruption-2020-an-interview-with-clayton-m-christensen/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/11/29/disruption-2020-an-interview-with-clayton-m-christensen/</guid>
+      <description>Clay was more interested in getting to the right answer than in being right. And for him, getting to the right answer started with asking the right questions. For instance:
+ What does the ascendance of a new generation of straight-to-consumer disrupters tell us about how innovation is evolving? What are the sources of disruption that every com- pany must monitor? Is disruption always the right strategy — or not? Why have companies not gotten better at solving the innovator’s dilemma two decades after Clay first helped us understand how disruption occurs?</description>
+    </item>
+    
+    <item>
+      <title>1128_Yoda</title>
+      <link>/2020/11/28/1128-yoda/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/11/28/1128-yoda/</guid>
+      <description>これがヨーダの写真です。
+無事、写真が表示されました。
+ヘッダーの写真も差し替えまし得た。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
