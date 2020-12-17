@@ -15,5 +15,6 @@ tags: []
 
 >On the show we talk about their quintessential projects, what makes agencies different from individual freelancers and other organizations, the realities and challenges of running an agency and much more.  
 
-![](/post/2020-12-17-data-stories/index_files/CLEVERFRANKE2.png)
+![](/post/2020-12-17-data-stories/index_files/CLEVERFRANKE2.png)  
+
 ![](/post/2020-12-17-data-stories/index_files/CLEVERFRANKE3.png)
