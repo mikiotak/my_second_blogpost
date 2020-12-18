@@ -7,6 +7,9 @@ categories:
   - Visualization
 tags: []
 ---
+スタンフォード大学図書館の展示が凄いです！
+今の時代、オンラインで閲覧できるのはとてもありがたいですね。  
+
 ![](/post/2020-12-18-stanford-libraries-data-visualization-and-the-modern-imagination/index_files/stanford1.png)  
 
 There is a magic in information graphics. Maps float you above the land for a bird’s eye view. Timelines arrange memories on the page for all to see. Diagrams reveal the parts inside without requiring disassembly, or incision.  
