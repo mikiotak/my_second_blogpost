@@ -24,7 +24,14 @@ tags: []
 
 　今回、それがAl Hirschfeldという人の作品ということを初めて知りました。どんな人かと調べたら、自画像も描いていたので、模写してみました。  
 　![](/post/2020-12-30-library-of-congress-exhibits-al-hirschfeld-beyond-broadway/index_files/AlHirschfeld2.jpg)   
-　[The Hirschfeld Century](https://www.amazon.co.jp/Hirschfeld-Century-Portrait-Artist-English-ebook/dp/B00UEL0J4C/ref=sr_1_1?__mk_ja_JP=カタカナ&dchild=1&keywords=Hirschfeld+century&qid=1609309738&sr=8-1)という本もおすすめです。
+　[The Hirschfeld Century](https://www.amazon.co.jp/Hirschfeld-Century-Portrait-Artist-English-ebook/dp/B00UEL0J4C/ref=sr_1_1?__mk_ja_JP=カタカナ&dchild=1&keywords=Hirschfeld+century&qid=1609309738&sr=8-1)という本もおすすめです。  
+　以下は、２０１５年の[New York Times Book Review](https://www.nytimes.com/2015/07/26/books/review/the-hirschfeld-century-portrait-of-an-artist-and-his-age.html)の書評。
+
+>By Alex Witchel, July 21, 2015  
+
+>When I finished reading “The Hirschfeld Century: Portrait of an Artist and His Age,” I cried.
+
+>I cried because it had been too long since a joyous Al Hirschfeld drawing heralded the opening of a Broadway show on the cover of The New York Times’s Arts & Leisure section. I cried because it had been too long since I’d seen Al Hirschfeld at the theater, pen in hand, waiting like a kid for the show to begin. I cried because when I told my 44-year-old brother that I was ­writing about Al Hirschfeld, he looked blank before saying, “The guy with the ‘Ninas’?”
 　
 　
 　
